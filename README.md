@@ -19,11 +19,6 @@ The Two-Load Method is implemented following [1] and [2].
 ## Note 
  - 1. Do not rename the folders within \Bat. You are allowed to create folders within \Bat\data.
  
-## TODO
- - 1. Create message dialog box - MATLAB -  instead of setting parameters highlighted by the sandwitch of '%%%%'
- - 2. Add 'infinite-plate', a model that includes flexural modes of the sample
- - 3. Add 'mass-law', a simplified model of 'infinite-plate'
-
 ## References 
 
 [1] Bolton, J. Stuart, Taewook Yoo, and Oliviero Olivieri. "Measurement of normal incidence transmission loss and other acoustical properties of materials placed in a standing wave tube." * *Brüel & Kjær Technical Review* * 1 (2007): 1-44.
